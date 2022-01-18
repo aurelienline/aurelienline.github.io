@@ -1,5 +1,7 @@
-Aurélien Liné is a yound researcher, currently completing his PhD in Climate Sciences.
-He is interested in the role of internal variability of climate, through physical processes, in the modulation of the climate change at near-term arround a forced response, caused by anthropogenic forcings (GHG, aerosols, land use, ..).
+Aurélien Liné is a yound researcher, currently completing his PhD in Climate Sciences in Toulouse.
+
+He is interested in the role of internal variability of climate, through physical processes, in the modulation of climate changes at near-term.
+His work is supervised by [Christophe Cassou](https://cerfacs.fr/~cassou/) and [Rym Msadek](https://cerfacs.fr/~msadek/), conducted at [Cerfacs](https://cerfacs.fr/en/climate-modelling-and-global-change-globc/) in relation with EDF, and is affiliated to the [University of Toulouse](https://en.univ-toulouse.fr/).
 
 ## Research publications and talks
 
