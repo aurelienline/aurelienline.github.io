@@ -19,6 +19,8 @@ His work is supervised by [Christophe Cassou](https://cerfacs.fr/~cassou/) and [
 
 # Education
 
+- - -
+
 > Aurélien Liné  
 > PhD Student  
 > CECI, CERFACS-CNRS - Climate, Environment, Coupling & Uncertainties  
