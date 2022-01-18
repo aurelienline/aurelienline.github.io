@@ -21,12 +21,8 @@ His work is supervised by [Christophe Cassou](https://cerfacs.fr/~cassou/) and [
 
 # Contact
 
-Aurélien Liné
-
-PhD Student
-
-CECI, CERFACS-CNRS - Climate, Environment, Coupling & Uncertainties
-
-42 avenue Gaspard Coriolis, Toulouse, France
-
-(+33) 5 61 19 31 27 | [aurelien.line@cerfacs.fr](mailto:aurelien.line@cerfacs.fr)
+> Aurélien Liné
+> PhD Student
+> CECI, CERFACS-CNRS - Climate, Environment, Coupling & Uncertainties
+> 42 avenue Gaspard Coriolis, Toulouse, France
+> (+33) 5 61 19 31 27 | [aurelien.line@cerfacs.fr](mailto:aurelien.line@cerfacs.fr)
