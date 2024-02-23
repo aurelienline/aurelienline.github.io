@@ -21,7 +21,7 @@ His PhD work was supervised by [Christophe Cassou](https://cerfacs.fr/~cassou/) 
 
 - - -
 
-> Aurélien Liné, PhD
-> IMFT, H2O
+> Aurélien Liné, PhD  
+> IMFT, H2O  
 > 2 allée du Professeur Camille Soula, Toulouse, France  
 > [aurelien.line@inp-toulouse.fr](mailto:aurelien.line@inp-toulouse.fr)
