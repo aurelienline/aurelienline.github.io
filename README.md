@@ -1,7 +1,7 @@
-Aurélien Liné is a yound researcher, currently completing his PhD in Climate Sciences in Toulouse.
+Aurélien Liné is a yound researcher, currently teaching Fluid Mechanics, Hydraulics, and Climate Sciences at n7 in Toulouse.
 
 He is interested in the role of internal variability of climate, through physical processes, in the modulation of climate changes at near-term.
-His work is supervised by [Christophe Cassou](https://cerfacs.fr/~cassou/) and [Rym Msadek](https://cerfacs.fr/~msadek/), conducted at [Cerfacs](https://cerfacs.fr/en/climate-modelling-and-global-change-globc/) in relation with EDF, and is affiliated to the [University of Toulouse](https://en.univ-toulouse.fr/).
+His PhD work was supervised by [Christophe Cassou](https://cerfacs.fr/~cassou/) and [Rym Msadek](https://cerfacs.fr/~msadek/), conducted at [Cerfacs](https://cerfacs.fr/en/climate-modelling-and-global-change-globc/) in relation with EDF, and is affiliated to the [University of Toulouse](https://en.univ-toulouse.fr/).
 
 # Research publications and talks
 
@@ -21,8 +21,7 @@ His work is supervised by [Christophe Cassou](https://cerfacs.fr/~cassou/) and [
 
 - - -
 
-> Aurélien Liné  
-> PhD Student  
-> CECI, CERFACS-CNRS - Climate, Environment, Coupling & Uncertainties  
-> 42 avenue Gaspard Coriolis, Toulouse, France  
-> (+33) 5 61 19 31 27 | [aurelien.line@cerfacs.fr](mailto:aurelien.line@cerfacs.fr)
+> Aurélien Liné, PhD
+> IMFT, H2O
+> 2 allée du Professeur Camille Soula, Toulouse, France  
+> [aurelien.line@inp-toulouse.fr](mailto:aurelien.line@inp-toulouse.fr)
